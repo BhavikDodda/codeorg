@@ -5,5 +5,6 @@ window.data1=[["share Sudoku solver","https://studio.code.org/projects/applab/tq
 ["Final:Weather App","https://studio.code.org/projects/applab/GzxT43e2zd8V3bDaHglWFIhJ17Fu70csZPeKQHQ7Who/edit","3/23/2020"],
 ["Lights Out Game","https://studio.code.org/projects/applab/qlSdVVQrkwZ0jzpvpDeiwZ5reu-dNdoqi3VW0pzHjRw/edit","4/12/2020"],
 ["Systems of Equations using normal syntax","https://studio.code.org/projects/applab/F8cf7sdWAouRIpknq_GBQaXOVmPMeOnwm7b4k2cOvIc/edit","4/11/2020"],
-["Remix: 3d Equation Evaluator trying draw lines","https://studio.code.org/projects/applab/HfGfcxBqYTo4vozZyqSinNlyIou7tOoqNuiAbIyb89U/edit","3/20/2020"]
+["Remix: 3d Equation Evaluator trying draw lines","https://studio.code.org/projects/applab/HfGfcxBqYTo4vozZyqSinNlyIou7tOoqNuiAbIyb89U/edit","3/20/2020"],
+["2d Graph","https://studio.code.org/projects/applab/kEUCxMdKd7P-a1y4zo4cO3IQasxWXeHipAoDwk1dS4w/edit","3/20/2020"],
 ]
