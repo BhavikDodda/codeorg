@@ -7,4 +7,5 @@ window.data1=[["share Sudoku solver","https://studio.code.org/projects/applab/tq
 ["Systems of Equations using normal syntax","https://studio.code.org/projects/applab/F8cf7sdWAouRIpknq_GBQaXOVmPMeOnwm7b4k2cOvIc/edit","4/11/2020"],
 ["Remix: 3d Equation Evaluator trying draw lines","https://studio.code.org/projects/applab/HfGfcxBqYTo4vozZyqSinNlyIou7tOoqNuiAbIyb89U/edit","3/20/2020"],
 ["2d Graph","https://studio.code.org/projects/applab/kEUCxMdKd7P-a1y4zo4cO3IQasxWXeHipAoDwk1dS4w/edit","3/20/2020"],
+["Connect Four for Login Multifeatured App","https://studio.code.org/projects/applab/r_RmJsgJ7GGUbgMHNkb7oSbNNgx4GP2wNOkYMqrB4_Q/edit","2/15/2020"],
 ]
