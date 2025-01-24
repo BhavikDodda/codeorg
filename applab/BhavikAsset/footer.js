@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Set the text content of the new element
     lastUpdated=appLastUpdatedData[divApplab.getAttribute("data-app-id")]
-    footer.textContent = `Created by Bhavik Dodda | Last updated: ${lastUpdated}`;
+    footer.textContent = `${document.title} | Created by Bhavik Dodda | Last updated: ${lastUpdated}`;
 
     // Apply styles to position it at the bottom of the screen
     footer.style.position = 'fixed';
