@@ -14,4 +14,5 @@ window.data1=[["share Sudoku solver","https://studio.code.org/projects/applab/tq
 ["Sudoku solver","https://studio.code.org/projects/applab/MKAGOH8k6Q3GK6Co_u69caCBc05ZXQJvUgYuRbr24Ek/edit","10/15/2018"],
 ["Ink Spill","https://studio.code.org/projects/applab/6W0jHpVDtTbcg3GhLOJrs-KI1c1P2Xo80bNtLBqHVzk/edit","6/9/2018"],
 ["Remix: Remix: rubix cube times with colors (testing universal solution rubik's cube)","https://studio.code.org/projects/applab/MWX0spUHAN6ab_j0Oke4OmSZ8AVKLi84O54mrnpkQWc/edit","2/17/2018"],
+["Digit Recognition","https://studio.code.org/projects/applab/Y1SKRNCpLrCmJHGJQQgLkRSd-S41j2-usiLwq22Xcz8/edit","6/18/2018"],
 ]
