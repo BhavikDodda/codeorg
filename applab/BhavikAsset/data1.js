@@ -23,4 +23,5 @@ window.data2=[
     ["Calculator","https://studio.code.org/projects/applab/HbOG-QcnKVAqxpiFC01gDxgwVg9hOJbb2yOg7Ro9ReU/edit","8/27/2023"],
     ["snake game","https://studio.code.org/projects/applab/3497B6mHQEX01ytA8pirriRuWez-SICxGCAtP3qPUro/edit","12/30/2017"],
     ["3d bhavik","https://studio.code.org/projects/applab/ae9Ws5OMDaNsPX4vAvPAdIMmOsTxegNrHTItmEVETjg/edit","12/28/2017"],
+    ["2048","https://studio.code.org/projects/applab/yiYrXKb-q89kZrgwh9CJKEfmSY4nXReXT9v5BJ2Bw94/edit","7/7/2017"],
 ]
