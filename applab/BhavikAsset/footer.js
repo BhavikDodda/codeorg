@@ -3,6 +3,10 @@ window.data1.forEach(([name, url, lastUpdated]) => {
   const appId = url.split('/').slice(-2, -1)[0];
   appLastUpdatedData[appId] = lastUpdated;
 })
+window.data2.forEach(([name, url, lastUpdated]) => {
+  const appId = url.split('/').slice(-2, -1)[0];
+  appLastUpdatedData[appId] = lastUpdated;
+})
 /*
 const appLastUpdatedData = {
     tq6f6xmxIqovL_yWTDpV0moGNpj5gC1yBz3GI2TfuII: "2024-01-18 14:35:00",
