@@ -26,4 +26,5 @@ window.data2=[
     ["2048","https://studio.code.org/projects/applab/yiYrXKb-q89kZrgwh9CJKEfmSY4nXReXT9v5BJ2Bw94/edit","7/7/2017"],
     ["Fibonacci:2048 Version 2","https://studio.code.org/projects/applab/mRmntIVww6hB9Ec48MloI7QQEXiiaZbEUGBmaENng6I/edit","12/18/2017"],
     ["Find your name in periodic table","https://studio.code.org/projects/applab/Wf3K8kbp_dtd7yxTVLm0KEWjhSvNXgZQbO1yh6YITLI/edit","10/28/2017"],
+    ["piano tiles version 3","https://studio.code.org/projects/applab/PioOWHeRNWYw9iZe0zgj6g4cG2SCewZTYQojWbI8z08/edit","8/14/2017"],
 ]
