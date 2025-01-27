@@ -25,4 +25,5 @@ window.data2=[
     ["3d bhavik","https://studio.code.org/projects/applab/ae9Ws5OMDaNsPX4vAvPAdIMmOsTxegNrHTItmEVETjg/edit","12/28/2017"],
     ["2048","https://studio.code.org/projects/applab/yiYrXKb-q89kZrgwh9CJKEfmSY4nXReXT9v5BJ2Bw94/edit","7/7/2017"],
     ["Fibonacci:2048 Version 2","https://studio.code.org/projects/applab/mRmntIVww6hB9Ec48MloI7QQEXiiaZbEUGBmaENng6I/edit","12/18/2017"],
+    ["Find your name in periodic table","https://studio.code.org/projects/applab/Wf3K8kbp_dtd7yxTVLm0KEWjhSvNXgZQbO1yh6YITLI/edit","10/28/2017"],
 ]
