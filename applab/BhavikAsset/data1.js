@@ -27,4 +27,5 @@ window.data2=[
     ["Fibonacci:2048 Version 2","https://studio.code.org/projects/applab/mRmntIVww6hB9Ec48MloI7QQEXiiaZbEUGBmaENng6I/edit","12/18/2017"],
     ["Find your name in periodic table","https://studio.code.org/projects/applab/Wf3K8kbp_dtd7yxTVLm0KEWjhSvNXgZQbO1yh6YITLI/edit","10/28/2017"],
     ["piano tiles version 3","https://studio.code.org/projects/applab/PioOWHeRNWYw9iZe0zgj6g4cG2SCewZTYQojWbI8z08/edit","8/14/2017"],
+    ["Ping Pong (App lab)","https://studio.code.org/projects/applab/YYgs-bEOO9w1ye3PFtLvBq4_wX9rz3rAE-KefhpMFE0/edit","9/29/2017"],
 ]
